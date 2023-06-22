@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * time_table - check description
  * Description: it prints 9 times table starting with 0
